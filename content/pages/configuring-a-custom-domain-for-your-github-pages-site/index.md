@@ -15,8 +15,6 @@ product: '{% data reusables.gated-features.pages %}'
 versions:
   fpt: '*'
   ghec: '*'
-topics:
-  - Pages
 children:
   - /about-custom-domains-and-github-pages
   - /managing-a-custom-domain-for-your-github-pages-site
@@ -24,3 +22,4 @@ children:
   - /troubleshooting-custom-domains-and-github-pages
 shortTitle: Configure a custom domain
 ---
+
